@@ -12,6 +12,7 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.12"
 djangorestframework = "3.16.1"
+apscheduler = "^3.11.1"
 
 
 [tool.poetry.group.dev.dependencies]
