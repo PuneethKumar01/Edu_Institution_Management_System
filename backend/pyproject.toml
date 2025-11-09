@@ -13,6 +13,7 @@ packages = [
 python = "^3.12"
 djangorestframework = "3.16.1"
 apscheduler = "^3.11.1"
+django-environ = "^0.12.0"
 
 
 [tool.poetry.group.dev.dependencies]
